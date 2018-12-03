@@ -6,3 +6,4 @@ git tracks changes of files.
 creating a new branch is quick.
 set a new branch dev.
 create dev2 is quick and simple.
+not finished work on dev.
